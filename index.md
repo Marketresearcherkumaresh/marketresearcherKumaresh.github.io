@@ -1,3 +1,6 @@
+title: Kumaresh Pal
+layout: template
+filename: index .md FILE HERE
 <!DOCTYPE html>
 <html lang="en">
     <head>
