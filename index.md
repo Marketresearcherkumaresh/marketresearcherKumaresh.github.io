@@ -1,6 +1,6 @@
 title: Kumaresh Pal
 layout: template
-filename: index .md FILE HERE
+filename: index .md
 <!DOCTYPE html>
 <html lang="en">
     <head>
